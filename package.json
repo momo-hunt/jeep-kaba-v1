@@ -1,0 +1,17 @@
+{
+	"name": "jeep-kaba-v1",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^2.1.0",
+		"@sveltejs/kit": "^1.21.0",
+		"svelte": "^4.0.1",
+		"vite": "^4.3.9"
+	},
+	"type": "module"
+}
